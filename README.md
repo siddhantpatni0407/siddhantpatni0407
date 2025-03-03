@@ -57,8 +57,8 @@ I am a **Java Lead Developer** with **extensive experience in Microservices Arch
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhantpatni0407)
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhantpatni0407&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=siddhantpatni0407)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhantpatni0407)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantpatni0407&layout=compact)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhantpatni0407&show_icons=true) 
 
