@@ -57,9 +57,16 @@ I am a **Java Lead Developer** with **extensive experience in Microservices Arch
 
 ## 📊 GitHub Stats  
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhantpatni0407&theme=dark)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhantpatni0407&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantpatni0407&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhantpatni0407&show_icons=true&theme=dark) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhantpatni0407&show_icons=true&theme=dark)  
+
+### 🔹 Total Repositories  
+
+![Public Repos](https://img.shields.io/github/repositories/siddhantpatni0407?type=public&color=blue&label=Public%20Repos)  
+![Private Repos](https://img.shields.io/badge/Private%20Repos-Use_GitHub_API-ff69b4)  
+
+> **Note:** The private repositories count requires authentication.
 
 ---
 
