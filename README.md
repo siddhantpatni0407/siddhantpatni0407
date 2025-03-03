@@ -54,10 +54,10 @@ I am a **Java Lead Developer** specializing in **Microservices Architecture**, *
 - 🚀 **Cloud Deployment Automation** – Automating deployments using Terraform, Kubernetes, and GitHub Actions.
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhantpatni0407&theme=dark)  
+![GitHub Streak]
+(https://github-readme-streak-stats.herokuapp.com/?user=siddhantpatni0407&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantpatni0407&layout=compact&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhantpatni0407&show_icons=true&theme=dark)  
-
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhantpatni0407)
