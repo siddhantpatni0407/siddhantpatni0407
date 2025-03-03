@@ -58,15 +58,17 @@ I am a **Java Lead Developer** with **extensive experience in Microservices Arch
 ## 📊 GitHub Stats  
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhantpatni0407&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantpatni0407&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhantpatni0407&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhantpatni0407&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantpatni0407&layout=compact&theme=dark)  
 
-### 🔹 Total Repositories  
+### 📈 Additional GitHub Insights  
 
-![Public Repos](https://img.shields.io/github/repositories/siddhantpatni0407?type=public&color=blue&label=Public%20Repos)  
-![Private Repos](https://img.shields.io/badge/Private%20Repos-Use_GitHub_API-ff69b4)  
+- **Most Used Languages (Based on Repositories):**  
+  ![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddhantpatni0407&theme=dark)  
 
-> **Note:** The private repositories count requires authentication.
+- **Most Productive Hours (Contributions by Hour):**  
+  ![Active Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddhantpatni0407&theme=dark)  
 
 ---
 
