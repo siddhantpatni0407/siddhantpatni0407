@@ -1,24 +1,28 @@
 # Hi there, I'm Siddhant Patni 👋  
 
 ## 🚀 About Me  
-I am a **Java Lead Developer** specializing in **Microservices Architecture, Spring Boot, Kafka, and Cloud Technologies**.  
-With a deep passion for **distributed systems**, I focus on **high-performance backend development**, optimizing **event-driven architectures**, and **leading teams** to deliver scalable solutions.  
 
-### 💡 My Expertise:  
-- 🏗 **Designing Microservices** – Creating resilient, event-driven architectures with **Spring Boot & Kafka**.  
-- ☁ **Cloud-Native Development** – Deploying apps using **Azure, Kubernetes (K8s), and Docker**.  
-- 🚀 **DevOps & CI/CD** – Automating pipelines with **GitHub Actions & Azure DevOps**.  
-- 🛠 **Mentoring & Code Reviews** – Leading teams to **write clean, scalable, and efficient code**.  
+I am a **Java Lead Developer** with **extensive experience in Microservices Architecture, Spring Boot, Kafka, and Cloud Technologies**. I specialize in designing, building, and optimizing **highly scalable, distributed systems** for enterprise applications.  
+
+### 💡 What I Do:  
+- 🏗 **Microservices Development** – Architecting & optimizing event-driven **Spring Boot** microservices.  
+- ☁ **Cloud & DevOps** – Deploying & managing apps on **Azure Cloud, Kubernetes (K8s), and Docker**.  
+- 🚀 **Performance Optimization** – Enhancing APIs & backend performance using **Redis, Kafka, and caching mechanisms**.  
+- 🔧 **Automation & CI/CD** – Streamlining software delivery with **GitHub Actions, Azure DevOps, and Terraform**.  
+- 🎯 **Team Leadership & Code Reviews** – Leading teams to follow **best coding practices** and write clean, scalable code.  
+
+💡 **Passionate about designing resilient microservices, improving system performance, and mentoring developers.**  
 
 ---
 
 ## 💼 Professional Experience  
-### **Lead Developer | Java, Microservices & Cloud**  
-✅ Managing a team of developers, conducting **code reviews & mentoring**.  
-✅ Building **highly scalable Spring Boot microservices** for enterprise applications.  
-✅ Designing **Kafka-based event-driven systems** for real-time processing.  
-✅ **Containerizing & deploying** applications on **Kubernetes (K8s) in Azure Cloud**.  
-✅ Improving **CI/CD pipelines** using **GitHub Actions & Azure DevOps**.  
+
+🔹 **Java Lead Developer**  
+✅ Leading a team of developers & conducting **code reviews**.  
+✅ Architecting & developing **Spring Boot microservices** with **Kafka-based event-driven architectures**.  
+✅ Managing deployments using **Kubernetes (K8s) & Docker on Azure Cloud**.  
+✅ Optimizing CI/CD pipelines using **GitHub Actions & Azure DevOps**.  
+✅ Implementing **API Gateways, security best practices, and authentication mechanisms**.  
 
 ---
 
@@ -53,6 +57,7 @@ With a deep passion for **distributed systems**, I focus on **high-performance b
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
 
 ### ⚙️ Tools & Version Control  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
@@ -64,11 +69,11 @@ With a deep passion for **distributed systems**, I focus on **high-performance b
 ## 📌 Featured Projects  
 
 ### 🚀 **Kafka Management App**  
-🔹 **React.js + Spring Boot** web app for managing **Kafka clusters**, creating topics, and monitoring real-time logs.  
+🔹 **React.js + Spring Boot** UI to manage **Kafka clusters**, topics, and logs.  
 🔹 **Tech Stack:** Kafka, Spring Boot, React.js, Docker, Kubernetes  
 
 ### 🛠 **Microservices Utility Tools**  
-🔹 A set of **developer-friendly** utilities for **Spring Boot microservices** to handle **logging, tracing, and request validation**.  
+🔹 Developer-friendly utilities for **Spring Boot microservices**, including **logging, tracing, and validation**.  
 🔹 **Tech Stack:** Java, Spring Boot, Redis, OpenTelemetry  
 
 ### ☁ **Cloud Deployment Automation**  
@@ -79,9 +84,13 @@ With a deep passion for **distributed systems**, I focus on **high-performance b
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhantpatni0407&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantpatni0407&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhantpatni0407&show_icons=true&theme=dark)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantpatni0407&theme=dark" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantpatni0407&layout=compact&theme=dark" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhantpatni0407&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>  
 
 ---
 
@@ -90,6 +99,7 @@ With a deep passion for **distributed systems**, I focus on **high-performance b
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhantpatni0407)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siddhantpatni0407)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siddhant4patni@gmail.com)  
+📞 **Mobile:** +91-7588811796  
 
 ---
 
