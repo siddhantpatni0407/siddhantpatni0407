@@ -18,14 +18,19 @@ I am a **Java Lead Developer** with **extensive experience in Microservices Arch
 ## 💼 Professional Experience  
 
 🔹 **Java Lead Developer**  
-✅ Leading and mentoring a team of developers, conducting code reviews, and ensuring adherence to best coding practices.
-✅ Architecting, designing, and developing scalable Spring Boot microservices with Kafka-based event-driven architectures to enhance system efficiency.
-✅ Managing containerized deployments using Kubernetes (K8s) & Docker on Azure Cloud, ensuring high availability and scalability.
-✅ Streamlining CI/CD pipelines with GitHub Actions & Azure DevOps, automating builds, tests, and deployments for faster release cycles.
-✅ Implementing API Gateways, security best practices, and authentication mechanisms (OAuth 2.0, JWT) to ensure robust and secure microservices communication.
-✅ Collaborating with cross-functional teams, architects, and stakeholders to define and refine technical solutions aligned with business needs.
-✅ Optimizing database interactions using JPA/Hibernate for improved performance and data integrity. 
+✅ Leading a team of developers & conducting **code reviews**.  
+✅ Architecting & developing **Spring Boot microservices** with **Kafka-based event-driven architectures**.  
+✅ Managing deployments using **Kubernetes (K8s) & Docker on Azure Cloud**.  
+✅ Optimizing CI/CD pipelines using **GitHub Actions & Azure DevOps**.  
+✅ Implementing **API Gateways, security best practices, and authentication mechanisms**.  
 
+✅ Leading and mentoring a team of developers, conducting code reviews, and ensuring adherence to best coding practices.  
+✅ Architecting, designing, and developing scalable Spring Boot microservices with Kafka-based event-driven architectures to enhance system efficiency.  
+✅ Managing containerized deployments using Kubernetes (K8s) & Docker on Azure Cloud, ensuring high availability and scalability.  
+✅ Streamlining CI/CD pipelines with GitHub Actions & Azure DevOps, automating builds, tests, and deployments for faster release cycles.  
+✅ Implementing API Gateways, security best practices, and authentication mechanisms (OAuth 2.0, JWT) to ensure robust and secure microservices communication.  
+✅ Collaborating with cross-functional teams, architects, and stakeholders to define and refine technical solutions aligned with business needs.  
+✅ Optimizing database interactions using JPA/Hibernate for improved performance and data integrity.  
 ---
 
 ## 🛠️ Tech Stack  
@@ -36,7 +41,7 @@ I am a **Java Lead Developer** with **extensive experience in Microservices Arch
 | **Frontend & UI**      | ![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
 | **Backend**            | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
 | **Cloud & DevOps**     | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=flat-square&logo=github-actions&logoColor=white) |
-| **Databases & Caching** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  |
+| **Databases & Caching** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | **Tools & Version Control** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) |
 
 ---
