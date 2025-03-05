@@ -18,13 +18,12 @@ I am a **Java Lead Developer** with **extensive experience in Microservices Arch
 ## 💼 Professional Experience  
 
 🔹 **Java Lead Developer**  
-✅ Leading and mentoring a team of developers, conducting code reviews, and ensuring adherence to best coding practices.  
-✅ Architecting, designing, and developing scalable Spring Boot microservices with Kafka-based event-driven architectures to enhance system efficiency.  
-✅ Managing containerized deployments using Kubernetes (K8s) & Docker on Azure Cloud, ensuring high availability and scalability.  
-✅ Streamlining CI/CD pipelines with GitHub Actions & Azure DevOps, automating builds, tests, and deployments for faster release cycles.  
-✅ Implementing API Gateways, security best practices, and authentication mechanisms (OAuth 2.0, JWT) to ensure robust and secure microservices communication.  
-✅ Collaborating with cross-functional teams, architects, and stakeholders to define and refine technical solutions aligned with business needs.  
-✅ Optimizing database interactions using JPA/Hibernate for improved performance and data integrity.  
+✅ Leading a team of developers & conducting **code reviews**.  
+✅ Architecting & developing **Spring Boot microservices** with **Kafka-based event-driven architectures**.  
+✅ Managing deployments using **Kubernetes (K8s) & Docker on Azure Cloud**.  
+✅ Optimizing CI/CD pipelines using **GitHub Actions & Azure DevOps**.  
+✅ Implementing **API Gateways, security best practices, and authentication mechanisms**.  
+
 ---
 
 ## 🛠️ Tech Stack  
