@@ -30,10 +30,8 @@ I am a **Java Lead Developer** with **extensive experience in Microservices Arch
 
 ## 🔥 Featured Repository – GitHub Repository Tracker
 - 🚀 GitHub Repo Tracker – A centralized tracker for all my GitHub repositories.
-
-🔹 Easily navigate through all my projects in one place.
-🔹 Updated to track repository changes.
-
+- Easily navigate through all my projects in one place.  
+- Updated to track repository changes.
 - 📌 Check it out: [GitHub Repo Tracker](https://github.com/siddhantpatni0407/GitHub-Repo-Tracker)
 
 ---
