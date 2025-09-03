@@ -52,7 +52,7 @@ Stay effortlessly updated and explore everything in one **beautifully organized 
 
 <div align="center">
 
-# 🟢✨ [👉 **VISIT GITHUB REPO TRACKER** 👈](https://github.com/siddhantpatni0407/GitHub-Repo-Tracker) ✨🟢
+## 🟢✨ **[👉 **VISIT GITHUB REPO TRACKER** 👈](https://github.com/siddhantpatni0407/GitHub-Repo-Tracker)** ✨🟢
 
 </div>
 
